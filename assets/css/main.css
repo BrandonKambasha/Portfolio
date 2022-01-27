@@ -126,16 +126,17 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 2.5em;
 		letter-spacing: -1px;
+		color:rgb(0, 0, 0);
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(0, 0, 0);
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: rgb(0, 0, 0);
 			}
 
 	h3 {
@@ -2250,7 +2251,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/pik3.jpg");
 			}
 
 			#main > section.two {
