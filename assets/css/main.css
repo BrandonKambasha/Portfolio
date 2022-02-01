@@ -1993,6 +1993,11 @@ input, select, textarea {
 			padding: 1em 0 1em 0;
 			font-size: 0.8em;
 		}
+		.item header a h3 {
+			
+			border-top: rgb(0, 0, 0);
+			
+		}
 
 			.item header h3 {
 				font-size: 1em;
