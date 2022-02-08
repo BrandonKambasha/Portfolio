@@ -1771,6 +1771,8 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			text-decoration: underline;
+			font-weight: 900;
 		}
 
 		.image.featured {
@@ -2638,4 +2640,11 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
+	}
+
+	.text{
+		line-height:0.7cm;
+		text-align: left;
+		margin-left:0.7cm;
+		margin-right:0.5cm;
 	}
