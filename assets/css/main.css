@@ -1775,6 +1775,14 @@ input, select, textarea {
 			font-weight: 900;
 		}
 
+		.imagez{
+			display:block;
+			width:40%;
+			height:13.5em;
+			float:left;
+			margin-left:2cm;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -2647,4 +2655,8 @@ input, select, textarea {
 		text-align: left;
 		margin-left:0.7cm;
 		margin-right:0.5cm;
+	}
+
+	.left{
+		text-align: left;
 	}
